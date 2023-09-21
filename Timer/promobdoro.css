@@ -68,11 +68,11 @@ button{
     color:#bcece0;
     font-size: 2em;
 }
-#time {
-    text-align: center;
-    color: azure;
-    font-size: 5.2em;
-    font-weight: 700;
+.hide{
+    display: none;
+}
+.show{
+    display: block;
 }
 .timer-btn-container {
     display: flex;
@@ -80,10 +80,4 @@ button{
     align-items: center; /* Center horizontally */
     justify-content: center; /* Center vertically */
     margin-top: 2em;
-}
-.hide{
-    display: none;
-}
-.show{
-    display: block;
 }
