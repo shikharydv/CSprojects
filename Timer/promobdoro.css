@@ -69,13 +69,17 @@ button{
     font-size: 2em;
 }
 #time {
-    #time {
     text-align: center;
     color: azure;
     font-size: 5.2em;
     font-weight: 700;
 }
-
+.timer-btn-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center horizontally */
+    justify-content: center; /* Center vertically */
+    margin-top: 2em;
 }
 .hide{
     display: none;
