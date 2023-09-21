@@ -68,6 +68,15 @@ button{
     color:#bcece0;
     font-size: 2em;
 }
+#time {
+    #time {
+    text-align: center;
+    color: azure;
+    font-size: 5.2em;
+    font-weight: 700;
+}
+
+}
 .hide{
     display: none;
 }
