@@ -169,7 +169,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3NrOTc5MS1pbWFnZS1rd3Z1amE5Ni5qcGc.jpg") no-repeat center;
+    background: url("NLP.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -197,7 +197,7 @@ section .title::after{
     margin: 5px 0;
 }
 .home .home-content .text-3 span{
-    color: crimson;
+    color: #f1c855;
     font-weight: 500;
 }
 .home .home-content a{
@@ -218,9 +218,6 @@ section .title::after{
 }
 
 /* about section styling */
-.about .title::after{
-    content: "who i am";
-}
 .about .about-content .left{
     width: 45%;
 }
